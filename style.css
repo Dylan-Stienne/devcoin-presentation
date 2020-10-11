@@ -38,3 +38,11 @@ body {
     margin-top: 15px;
 }
 
+
+footer {
+    width: 100%;
+    background-color: #fff;
+    padding: 30px;
+    position: fixed;
+    bottom: 0;
+}
