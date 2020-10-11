@@ -50,3 +50,11 @@ body {
 #technos-list div:last-child {
     border-left: 2px solid #dddddd;
 }
+
+footer {
+    width: 100%;
+    background-color: #fff;
+    padding: 30px;
+    position: fixed;
+    bottom: 0;
+}
